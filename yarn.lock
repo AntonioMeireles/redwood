@@ -10285,9 +10285,9 @@ graphql-extensions@^0.12.4:
     apollo-server-types "^0.5.1"
 
 graphql-scalars@^1.2.7:
-  version "1.2.7"
-  resolved "https://registry.yarnpkg.com/graphql-scalars/-/graphql-scalars-1.2.7.tgz#dad338ffa5f415615770b01281c83d710d9b314d"
-  integrity sha512-bkB/OEsfiYm/hMwSnZfg91SZ3ChOM6Dnw5LZkUN68IXtBGKrBxjw8kXbD3bBXhWpjaKshvNVG7ZK3vFtfBmwrQ==
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/graphql-scalars/-/graphql-scalars-1.5.0.tgz#8c2237f71052ea46df5d13bb405e205672933a62"
+  integrity sha512-gMs+1+NBptdLxrpR/ME/vj6t8M25jqL22aNbu+OYF+Hkm+5+KFk9I/opddVi3troK3r9PHJS9ouahJExJJrbzw==
 
 graphql-tag@^2.10.3, graphql-tag@^2.11.0, graphql-tag@^2.9.2:
   version "2.11.0"
