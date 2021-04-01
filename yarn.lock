@@ -3117,10 +3117,12 @@
   resolved "https://registry.yarnpkg.com/@prisma/ci-info/-/ci-info-2.1.2.tgz#3da64f54584bde0aaf4b42f298a6c63f025aeb3f"
   integrity sha512-RhAHY+wp6Nqu89Tp3zfUVkpGfqk4TfngeOWaMGgmhP7mB2ASDtOl8dkwxHmI8eN4edo+luyjPmbJBC4kST321A==
 
-"@prisma/cli@2.7.1":
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/@prisma/cli/-/cli-2.7.1.tgz#98f2cb434bb931341e6c6292c7bab601e5f842f8"
-  integrity sha512-0uA+gWkNQ35DveVHDPltiTCTr4wcXtEhnPs463IEM+Xn8dTv9x0gtZiYHSuQM3t7uwlOxj1rurBsqSbiljynfQ==
+"@prisma/cli@2.20.0":
+  version "2.20.0"
+  resolved "https://registry.yarnpkg.com/@prisma/cli/-/cli-2.20.0.tgz#8d255341a23a479121fd09d45948c1b25e62df91"
+  integrity sha512-5iCa2urPVdy7nG0Lslg+c3CxTg/tFcybONY1VA5RZZPSQAbirEp0zHw5zKnKvjcDD/iZlfnobiZkjuB8Em1JuA==
+  dependencies:
+    "@prisma/engines" "2.20.0-26.60ba6551f29b17d7d6ce479e5733c70d9c00860e"
 
 "@prisma/client@2.7.1":
   version "2.7.1"
@@ -3153,6 +3155,11 @@
     p-retry "^4.2.0"
     terminal-link "^2.1.1"
     undici "git://github.com/nodejs/undici.git#e76f6a37836537f08c2d9b7d8805d6ff21d1e744"
+
+"@prisma/engines@2.20.0-26.60ba6551f29b17d7d6ce479e5733c70d9c00860e":
+  version "2.20.0-26.60ba6551f29b17d7d6ce479e5733c70d9c00860e"
+  resolved "https://registry.yarnpkg.com/@prisma/engines/-/engines-2.20.0-26.60ba6551f29b17d7d6ce479e5733c70d9c00860e.tgz#18f23c4a8a335a93fd338f88c310f5cf120f5591"
+  integrity sha512-zOWETm7DTRvlwf/CekPNSeJe6EC5bn2IFexd74wM9zgBXCZo+1sMDuNGtCqIt4Rzv8CcimEgyzrEFVq0LPV8qg==
 
 "@prisma/fetch-engine@2.7.1":
   version "2.7.1"
